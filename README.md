@@ -29,7 +29,7 @@ Here you'll find a curated collection of my work in data analysis and visualizat
 
 | Project Link | Description |
 | ------------ | ----------- |
-| <a href="https://github.com/john-rocks/ecommerce-sales-analysis-dashboard-">E-commerce Sales Analysis Dashboard 🛒</a> | Created an interactive Excel dashboard to track KPIs such as sales trends, profit margins, and regional performance. <ul><li><b>Tools Used:</b> Microsoft Excel</li></ul> |
+| <a href="https://github.com/john-rocks/ecommerce-sales-analysis-dashboard-">E-commerce Sales Analysis Dashboard </a> | Created an interactive Excel dashboard to track KPIs such as sales trends, profit margins, and regional performance. <ul><li><b>Tools Used:</b> Microsoft Excel</li></ul> |
 
 ---
 
